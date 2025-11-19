@@ -1,7 +1,3 @@
 <resources>
-    <color name="purple_700">#34185F</color>
-    <color name="purple_500">#6F44FF</color>
-    <color name="purple_200">#EDE7FF</color>
-    <color name="background_soft_top">#F3ECFF</color>
-    <color name="background_soft_bottom">#F8F5FF</color>
+    <color name="seed">#FF00FF</color>
 </resources>
